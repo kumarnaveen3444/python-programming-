@@ -5,12 +5,13 @@
 #string input
 
 name = input("name : ")
-print = ("my name is",name)
-
+#print = ( name )
+#print("hello world")
 
 #int input 
 age = int(input("age : "))
-print = ("my age is age")
+print = (age)
+print("hello world")
 
 
 #float input

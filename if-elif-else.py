@@ -1,4 +1,4 @@
-light = input("light : ")
+light = input("hello  : ")
 if(light == "red"):
     print("stop")
 
@@ -7,7 +7,7 @@ elif(light == "yellow"):
 
 elif(light == "green"):
     print("go") 
-    
+
 else:
     print("light is broken")
  
